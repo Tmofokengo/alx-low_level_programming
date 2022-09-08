@@ -1,9 +1,15 @@
 #include <stdio.h>
 
+
+
 /**
- *main: Entry
- *puts: Print string specified
- *return : Gives 0
+
+ * main - Entry point
+
+ * puts: print the string
+
+ * Return: Always 0 
+
  */
 
 int main(void)
@@ -14,3 +20,4 @@ int main(void)
   
   return (0);
   
+}
