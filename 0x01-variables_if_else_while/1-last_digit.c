@@ -1,6 +1,6 @@
 /*
 * File: 1-last_digit.c
-* Auth: Brennan D Baraban
+* Auth: Teboho Mofokeng
 */
 #include <stdlib.h>
 #include <time.h>

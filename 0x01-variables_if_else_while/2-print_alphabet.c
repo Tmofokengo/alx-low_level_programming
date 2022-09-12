@@ -1,6 +1,6 @@
 /*
 * File: 2-print_alphabet.c
-* Auth: Brennan D Baraban
+* Auth: Teboho Mofokeng
 */
 #include <stdio.h>
 /**
