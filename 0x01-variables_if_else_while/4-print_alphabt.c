@@ -1,10 +1,10 @@
 /*
- *File:4-print_alphabt.c
+ *File: 4-print_alphabt.c
  *Auth: Teboho Mofokeng
  */
 #include <stdio.h>
 /**
- *main - Prints the alphaet in lowercase, except for q and e.
+ *main - Prints the alphabet in lowercase, except for q and e.
  *
  *Retun: Always 0.
  */
