@@ -1,8 +1,12 @@
+/*
+ * File: 101-quote.c
+ * Auth: Teboho Mofokeng
+ */
 #include <unistd.h>
 /**
  *main-Entry
  *
- *Return: Always 0
+ *Return: Always 1
  */
 int main(void)
 {
