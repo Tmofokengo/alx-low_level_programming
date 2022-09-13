@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include "main.h"
 
 /**
@@ -9,11 +8,10 @@
 
 void print_alphabet(void)
 {
-char letter;
-for (letter = 'a'; letter <= 'z'; letter++)
+char i;
+for (i = 'a'; i <= 'z'; i++)
 {
-_putchar(letter);
+_putchar(i);
 }
 _putchar('\n');
- return (0);
 }
