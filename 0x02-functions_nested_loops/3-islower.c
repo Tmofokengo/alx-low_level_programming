@@ -3,7 +3,8 @@
 /**
  * _islower - Entry Point
  * Description: Check lowercase c
- * Return: Always 0 (Success)
+ * Return: 1 if c is lowercase 
+* Return: Always 0 (Success)
  */
 
 int _islower(int c)
