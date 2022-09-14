@@ -2,7 +2,7 @@
 
 /**
 * print_alphabet_x10 - Entry point
-* 
+*
 * Description: A function that print 10 times the alphabet in lowercase
 *
 * Return: Always 0 (success)
@@ -23,4 +23,4 @@ letter++;
 _putchar('\n');
 i++;
 }
-}  
+}
