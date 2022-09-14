@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * print_sign: Prints the sign of a number
- * Description: Check if number is - equal of + 
-* @n: check value
+* Description: Check if number is - equal of +
+* @n: check value if its - + or =
  * Return: 1 and print + if n greater than 0
  * 0 and print 0 if n is equal to 0
  * -1 and print - if n is less than 0
