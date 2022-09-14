@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - A function that prints the alphabets, in lowercase.
+ * main - Entry point
+ * Description: A function that prints the alphabets, in lowercase.
  * print a - z.
  * Return: Always 0 (success)
  */
