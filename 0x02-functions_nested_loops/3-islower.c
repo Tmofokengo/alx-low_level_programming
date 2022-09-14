@@ -3,10 +3,10 @@
 /**
  * _islower - Entry Point
  * Description: Check lowercase c
- *
+ * Return: Always 0 (Success)
  */
 
 int _islower(int c)
 {
-return(c >= 97 && c <= 122);
+return (c >= 97 && c <= 122);
 }
