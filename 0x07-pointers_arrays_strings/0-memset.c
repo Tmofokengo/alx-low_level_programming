@@ -16,4 +16,5 @@ for (counter = 0; counter < n; counter++)
 {
 s[counter] = b;
 }
+return (s);
 }
