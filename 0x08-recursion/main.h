@@ -1,5 +1,3 @@
-#ifndef MAIN_H
-#include MAIN_H
 
 boid _puts_recursion(char *s);
 int _putchar(char c);
