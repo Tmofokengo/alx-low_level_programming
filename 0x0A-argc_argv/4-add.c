@@ -19,12 +19,12 @@ for (digit = 0; argv[num][digit]; digit++)
 {
 if (argv[num][digit] < '0' || argv[num][digit] > '9')
 {
-_putchar("Error\n");
+printf("Error\n");
 return (1);
 }
 }
 sum += atoi(argv[num]);
 }
-_putchar("%d\n", sum);
+printf("%d\n", sum);
 return (0);
 }

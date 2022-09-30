@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 int i, j;
 if (argc == 1 || argc == 2)
 {
-_putchar("Error\n");
+printf("Error\n");
 return (1);
 }
 else
@@ -23,7 +23,7 @@ else
 j = 1;
 for (i = 1; i < 3; i++)
 j *= atoi(argv[i]);
-_putchar("%d\n", j);
+printf("%d\n", j);
 }
 return (0);
 }
