@@ -21,7 +21,7 @@ for (i = min; i <= max; i++)
 {
 block[j] = i;
 j++;
-} 
+}
 return (block);
 }
 else
