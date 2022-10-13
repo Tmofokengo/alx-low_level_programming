@@ -27,7 +27,7 @@ int i;
 i = 0;
 while (i < 5)
 {
-if (*(ops[i].op) == *s)
+if (strcmp(s, ops[i].op) == 0)
 return (ops[i].f);
 i++;
 }
